@@ -5,3 +5,9 @@
 # 下载脚本
 [download-rfc.sh](download-rfc.sh)
 执行脚本后,会默认下载到当前目录
+
+
+# 指北
+|rfc|备注|
+|--|--|
+| 2315| Pkcs7|
