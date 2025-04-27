@@ -40,6 +40,7 @@
 |       5958      | pkcs8 private                |                 |
 |       6025      | ASN.1                |                 |
 |       6238      | TOTP                 | 4226的另外一种       |
+| 7515 | JWS  | json web sign |
 | 8446 | TLS1.3 |  |
 | 8555 | ACME |  |
 
