@@ -36,12 +36,13 @@
 | 5208        | PKCS8                |                 |
 | 5246        | TLSV1.2              |                 |
 | 5280        | CRL                  |                 |
+| 6489        | RPKI中的CA密钥轮转         |                 |
 | 7519        | JWT                  | json web token  |
 | 5958        | pkcs8 private        |                 |
 | 6025        | ASN.1                |                 |
 | 6238        | TOTP                 | 4226的另外一种       |
 | 7515        | JWS                  | json web sign   |
-| 8182        | RRDP协议          |    RPKI存储库增量协议       |
+| 8182        | RRDP协议               |    RPKI存储库增量协议       |
 | 8446        | TLS1.3               |                 |
 | 8555        | ACME                 |                 |
 
