@@ -35,7 +35,7 @@
 | 4516        | LDAP                 | URL格式           |
 | 5208        | PKCS8                |                 |
 | 5246        | TLSV1.2              |                 |
-| 5280        | CRL                  |                 |
+| 5280        | Cert、CRL            | 3280的升级 |
 | 6489        | RPKI中的CA密钥轮转         |                 |
 | 7519        | JWT                  | json web token  |
 | 5958        | pkcs8 private        |                 |
