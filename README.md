@@ -41,6 +41,7 @@
 | 5246        | TLSV1.2              |                     |
 | 5280        | Cert、CRL            | 3280的升级          |
 | 6489        | RPKI中的CA密钥轮转   |                     |
+| 6962        | CT                   | SCT                 |
 | 7519        | JWT                  | json web token      |
 | 5958        | pkcs8 private        |                     |
 | 6025        | ASN.1                |                     |
